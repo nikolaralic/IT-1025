@@ -1,0 +1,10 @@
+a = int(input("Unesi prvi broj "))
+b = int(input("Unesi drugi broj "))
+c = int(input("Unesi treci broj "))
+x = (c - b)
+y = (c * a)
+z = (a * b)
+
+print("razlika treceg i drugog je",x)
+print("proizvod treceg i prvog je",y)
+print("proizvod prvog i drugog je",z)
